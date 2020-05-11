@@ -79,8 +79,8 @@
 }, {
 	"title": "TWC Newsletter Issue 1: How do we help each other?",
 	"url": "https://news.techworkerscoalition.org/2020/05/01/issue-1/",
-	"author": "",
-	"date": "",
+	"author": "Tech Workers Coalition Newsletter Working Group",
+	"date": "01 May 2020",
 	"pullQuote": "Learning about how we’re all connected and building relationships to make positive change across the industry is a slow but necessary process. This is why we need to stay in the struggle, together."
 }, {
 	"title": "Big Tech Won’t Save Us: The Case for Social Transformation over Coronavirus Surveillance",
@@ -91,15 +91,15 @@
 }, {
 	"title": "NSO Employee Abused Phone Hacking Tech to Target a Love Interest",
 	"url": "https://www.vice.com/en_us/article/bvgwzw/nso-group-employee-abused-pegasus-target-love-interest",
-	"author": "",
-	"date": "",
-	"pullQuote": ""
+	"author": "Joseph Cox",
+	"date": "Apr 28 2020",
+	"pullQuote": "The previously unreported news is a serious abuse of NSO's products, which are typically used by governments and authoritarian regimes."
 }, {
 	"title": "Amazon locks down internal employee communications amid organizing efforts",
 	"url": "https://arstechnica.com/tech-policy/2020/04/amazon-locks-down-internal-employee-communications-amid-organizing-efforts/",
-	"author": "",
-	"date": "",
-	"pullQuote": ""
+	"author": "KATE COX",
+	"date": "4/30/2020",
+	"pullQuote": "If all complaints must first be approved by a manager, there will be fewer of them."
 }, {
 	"title": "Facebook deletes event for stay-at-home protest in Michigan",
 	"url": "https://www.mlive.com/public-interest/2020/04/facebook-deletes-event-for-stay-at-home-protest-in-michigan.html",
@@ -115,39 +115,39 @@
 }, {
 	"title": "A Brief History of the Gig",
 	"url": "https://logicmag.io/security/a-brief-history-of-the-gig/",
-	"author": "",
-	"date": "",
-	"pullQuote": ""
+	"author": "Veena Dubal",
+	"date": "MAY 04, 2020",
+	"pullQuote": "Uber and Lyft are in many ways not as different as we tend to think from the taxi companies that prevailed until 2012."
 }, {
 	"title": "CEO of Surveillance Firm Banjo Once Helped KKK Leader Shoot Up a Synagogue",
 	"url": "https://onezero.medium.com/ceo-of-surveillance-firm-banjo-once-helped-kkk-leader-shoot-up-synagogue-fdba4ad32829",
-	"author": "",
-	"date": "",
-	"pullQuote": ""
+	"author": "Matt Stroud",
+	"date": "Apr 28, 2020",
+	"pullQuote": "Documents reveal Damien Patton, CEO of SoftBank-backed Banjo, admitted to being a neo-Nazi skinhead in his youth."
 }, {
 	"title": "Explainer: How to control women's sexual health with tech",
 	"url": "https://www.reuters.com/article/us-britain-women-data-explainer-trfn/explainer-how-to-control-womens-sexual-health-with-tech-idUSKCN2252DR",
-	"author": "",
-	"date": "",
-	"pullQuote": ""
+	"author": "Amber Milne",
+	"date": "APRIL 23, 2020",
+	"pullQuote": "From fake websites to location tracking, anti-abortion groups are using data and technology to curtail women’s access to sexual and reproductive healthcare, privacy activists say."
 }, {
 	"title": "Want Pandemic Unemployment Assistance? California gives details for the self-employed",
 	"url": "https://www.sfchronicle.com/business/networth/article/Want-Pandemic-Unemployment-Assistance-California-15219543.php",
-	"author": "",
-	"date": "",
-	"pullQuote": ""
+	"author": "Kathleen Pender",
+	"date": "April 22, 2020",
+	"pullQuote": "A ride-hail driver protests in Los Angeles on April 16. Self-employed people — a category which includes such drivers for now — will soon be able to get pandemic-related unemployment benefits."
 }, {
 	"title": "ICE cold: Microsoft's GitHub wrings hands over US prez's Trump immigration ban plan",
 	"url": "https://www.theregister.co.uk/2020/04/22/github_handwringing/",
-	"author": "",
-	"date": "",
-	"pullQuote": ""
+	"author": "Richard Speed",
+	"date": "22 Apr 2020",
+	"pullQuote": "Yeah, about that contract you signed with Immigration and Customs Enforcement..."
 }, {
 	"title": "How the Coronavirus Could Create a New Working Class",
 	"url": "https://www.theatlantic.com/health/archive/2020/04/coronavirus-class-war-just-beginning/609919/",
-	"author": "",
-	"date": "",
-	"pullQuote": ""
+	"author": "Olga Khazan",
+	"date": "APRIL 15, 2020",
+	"pullQuote": "Experts predict the outbreak will lead to a rise in populism. But will workers turn their rage toward corporate CEOs, or middle-class “elites”?"
 }, {
 	"title": "Kickstarter plans layoffs after new projects on the site drop off by 35 percent",
 	"url": "https://www.theverge.com/2020/4/20/21228412/kickstarter-layoffs-planned-coronavirus-project-declines-crowdfunding-union",
@@ -409,7 +409,7 @@
 }, {
 	"title": "‘Techlash’ Hits College Campuses",
 	"url": "https://www.nytimes.com/2020/01/11/style/college-tech-recruiting.html",
-	"author": "",
+	"author": "Emma Goldberg",
 	"date": "Jan 11 2020",
 	"pullQuote": "Facebook, Google and other major tech firms were every student’s dream workplaces. Until they weren’t."
 }, {
@@ -439,7 +439,7 @@
 }, {
 	"title": "CAA: Microsoft boss calls India's new citizenship law 'sad'",
 	"url": "https://www.bbc.com/news/business-51101766",
-	"author": "",
+	"author": "Unknown",
 	"date": "14 January 2020",
 	"pullQuote": "The India-born executive said what is happening is sad and he would love to see a Bangladeshi immigrant succeed in the country's technology industry."
 }, {
@@ -629,59 +629,59 @@
 	"date": "JANUARY 24, 2020",
 	"pullQuote": "Aggressive and Deceptive Recruiting Tactics Similar to Those Used by For-Profit Colleges May Undermine Best Interests of Students"
 }, {
-	"title": "capitalism-at-dusk-the-point-magazine",
+	"title": "Capitalism at Dusk: Hegel and the irrationality of modern economy",
 	"url": "https://thepointmag.com/politics/capitalism-at-dusk/",
-	"author": "",
-	"date": "",
-	"pullQuote": "capitalism-at-dusk-the-point-magazine"
+	"author": "Robert Pippin",
+	"date": "APRIL 15, 2020",
+	"pullQuote": "Is life in a system of production generally defined by the division of and the sale of labor to private owners of capital who compete for market dominance a suitable or flourishing way to live for human beings?"
 }, {
-	"title": "uk-government-using-confidential-patient-da",
+	"title": "UK government using confidential patient data in coronavirus response",
 	"url": "https://www.theguardian.com/world/2020/apr/12/uk-government-using-confidential-patient-data-in-coronavirus-response",
-	"author": "",
-	"date": "",
-	"pullQuote": "uk-government-using-confidential-patient-da"
+	"author": "Paul Lewis, David Conn and David Pegg",
+	"date": "12 Apr 2020",
+	"pullQuote": "Documents seen by Guardian show tech firms using information to build ‘Covid-19 datastore’"
 }, {
-	"title": "tech-workers-speak-out-in-support-of-amazon",
+	"title": "Tech Workers Speak Out in Support of Amazon Warehouse Strikes",
 	"url": "https://gizmodo.com/tech-workers-speak-out-in-support-of-amazon-warehouse-s-1842839301",
-	"author": "",
-	"date": "",
-	"pullQuote": "tech-workers-speak-out-in-support-of-amazon"
+	"author": "Bryan Menegus",
+	"date": "4/13/20",
+	"pullQuote": "white-collar colleagues across a variety of tech firms began showing solidarity for these warehouse and grocery workers whose essential work was only recognized as such in the face of unprecedented illness."
 }, {
-	"title": "thread-by-moxie-first-look-at-apple-google-",
+	"title": "First look at Apple/Google contact tracing framework: A Thread",
 	"url": "https://threadreaderapp.com/thread/1248707315626201088.html",
-	"author": "",
-	"date": "",
-	"pullQuote": "thread-by-moxie-first-look-at-apple-google-"
+	"author": "Moxie Marlinpsike",
+	"date": "Apr 10th 2020",
+	"pullQuote": " I'm not super optimistic about opt-in contact tracing becoming a major factor, but I do kind of anticipate that someone will end up using this for some other interesting thing."
 }, {
-	"title": "apple-and-google-launch-a-joint-contact-tra",
+	"title": "Apple and Google are building a coronavirus tracking system into iOS and Android",
 	"url": "https://www.theverge.com/platform/amp/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app",
-	"author": "",
-	"date": "",
-	"pullQuote": "apple-and-google-launch-a-joint-contact-tra"
+	"author": " Russell Brandom and Adi Robertson",
+	"date": "April 10, 2020",
+	"pullQuote": "Potentially a huge step forward in the fight against COVID-19."
 }, {
-	"title": "okay-but-have-you-tried-just-making-them-emp",
+	"title": "Okay, But Have You Tried Just Making Them Employees?",
 	"url": "https://gizmodo.com/okay-but-have-you-tried-just-making-them-employees-1841137191",
-	"author": "",
-	"date": "",
-	"pullQuote": "okay-but-have-you-tried-just-making-them-emp"
+	"author": "Bryan Menegus",
+	"date": "1/21/20",
+	"pullQuote": "Uber is still doing everything in its power to fight the implication of California’s new independent contractor law, likely working its developers into the ground to roll out product features designed not to improve driver or rider experience, but to create flimsy legal defenses against an increasingly indefensible business model."
 }, {
-	"title": "short-activism-the-rise-in-anonymous-online",
+	"title": "Short Activism: The Rise in Anonymous Online Short Attacks",
 	"url": "https://corpgov.law.harvard.edu/2017/11/27/short-activism-the-rise-in-anonymous-online-short-attacks/",
-	"author": "",
-	"date": "",
-	"pullQuote": "short-activism-the-rise-in-anonymous-online"
+	"author": "Jeff Katz and Annie Hancock, Ropes & Gray LLP",
+	"date": "November 27, 2017",
+	"pullQuote": "Given their success in driving down stock prices, anonymous online short campaigns are likely here to stay."
 }, {
-	"title": "fast-foods-workers-at-30-restaurants-across",
+	"title": "Fast Foods Workers at 50 Restaurants Across California Are Going on Strike",
 	"url": "https://www.vice.com/en_us/article/7kzyxz/fast-foods-workers-at-30-restaurants-across-california-are-going-on-strike",
-	"author": "",
-	"date": "",
-	"pullQuote": "fast-foods-workers-at-30-restaurants-across"
+	"author": "Lauren Kaori Gurley",
+	"date": "Apr 8 2020",
+	"pullQuote": "Hundreds of workers from McDonald’s, Burger King, Taco Bell, Domino’s, and more chains will walk off the job to demand coronavirus protections."
 }, {
-	"title": "far-right-extremists-helped-create-the-worl",
+	"title": "The Far-Right Helped Create The World’s Most Powerful Facial Recognition Technology",
 	"url": "https://www.huffpost.com/entry/clearview-ai-facial-recognition-alt-right_n_5e7d028bc5b6cb08a92a5c48",
-	"author": "",
-	"date": "",
-	"pullQuote": "far-right-extremists-helped-create-the-worl"
+	"author": "Luke O’Brien",
+	"date": "04/07/2020",
+	"pullQuote": "Clearview AI, which has alarmed privacy experts, hired several far-right employees, a HuffPost investigation found."
 }, {
 	"title": "youtube-tightens-covid-19-rules-after-icke-",
 	"url": "https://www.bbc.com/news/technology-52198946",
