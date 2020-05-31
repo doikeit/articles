@@ -1,4 +1,250 @@
 [{
+	"title": "Local News Stations Run Propaganda Segment Scripted and Produced by Amazon",
+	"url": "https://www.vice.com/en_us/article/4ayvwb/local-news-stations-run-propaganda-segments-scripted-and-produced-by-amazon",
+	"author": "Lauren Kaori Gurley, Jason Koebler, and Emanuel Maiberg",
+	"date": "May 26 2020",
+	"pullQuote": " At least 11 TV stations aired an identical segment written and produced by Amazon’s PR team."
+}, {
+	"title": "Stack Overflow Developer Survey 2020",
+	"url": "https://insights.stackoverflow.com/survey/2020#work-most-important-job-factors-all-respondents",
+	"author": "Stack Overflow",
+	"date": "May 28, 2020",
+	"pullQuote": "Nearly 65,000 took this comprehensive, annual survey of people who code. Demographics. Most loved, dreaded and wanted technologies. Salary and careers."
+}, {
+	"title": "Cotton, Blackburn, Kustoff Unveil Bill to Restrict Chinese STEM Graduate Student Visas & Thousand Talents Participants",
+	"url": "https://www.cotton.senate.gov/?p=press_release&id=1371",
+	"author": "cotton.senate.gov",
+	"date": "May 27, 2020",
+	"pullQuote": "Senator Tom Cotton (R-Arkansas) and Senator Marsha Blackburn (R-Tennessee) today unveiled the SECURE CAMPUS Act, legislation that would prohibit Chinese nationals from receiving visas to the United States for graduate or post-graduate studies in STEM fields."
+}, {
+	"title": "Protestors Criticized For Looting Businesses Without Forming Private Equity Firm First",
+	"url": "https://www.theonion.com/protestors-criticized-for-looting-businesses-without-fo-1843735351/",
+	"author": "The Onion",
+	"date": "May 28, 2020",
+	"pullQuote": "\"It’s disgusting to put workers at risk by looting. You do it by chipping away at their health benefits and eventually laying them off.\""
+}, {
+	"title": "„Amazon greift nach Grundrechten“",
+	"url": "https://taz.de/Tech-Worker-ueber-Berlin-vs-Amazon/!5685279/",
+	"author": "Gareth Joswig",
+	"date": "May 28, 2020",
+	"pullQuote": "  Alexa, überwachst du uns? Amazon will in Berlin ein Zentrum für Abhörtechnik aufbauen. Der Software-Entwickler Yonatan Miller protestiert dagegen."
+}, {
+	"title": "Google Rescinds Offers to Thousands of Contract Workers",
+	"url": "https://www.nytimes.com/2020/05/29/technology/google-rescinds-job-offers-to-contract-workers.html",
+	"author": "Daisuke Wakabayashi",
+	"date": "May 29, 2020",
+	"pullQuote": "The company made the cost-cutting move as it navigates a slump in advertising created by the pandemic."
+}, {
+	"title": "Design Thinking is a Rebrand for White Supremacy",
+	"url": "https://medium.com/@dabuzon/design-thinking-is-a-rebrand-for-white-supremacy-b3d31aa55831",
+	"author": "Darin Buzon",
+	"date": "Mar 1, 2020",
+	"pullQuote": "What was even “international” about International Style if only accessible to Europe and its colonies whom underwent a conditioning of white supremacy?"
+}, {
+	"title": "Facial Recognition, License Readers, And Camera Scanners: Here Are The Surveillance Tools Used By The Minneapolis Police Department",
+	"url": "https://www.buzzfeednews.com/article/carolinehaskins1/george-floyd-protests-surveillance-technology",
+	"author": "Caroline Haskins and Ryan Mac",
+	"date": "May 29, 2020",
+	"pullQuote": "Protestors are demonstrating in Minneapolis in response to police brutality. Here are the surveillance tools the Minneapolis PD could be using to watch them."
+}, {
+	"title": "Leaked posts show Facebook employees asking the company to remove Trump’s threat of violence",
+	"url": "https://www.theverge.com/2020/5/29/21275044/facebook-trump-tweets-employee-reaction-criticism",
+	"author": "Casey Newton",
+	"date": "May 29, 2020",
+	"pullQuote": "\"If we fail the test case here, history will not judge us kindly,\" an employee says. The Facebook posts were cross-posted from Twitter, which took action against them."
+}, {
+	"title": "Fighting Local Surveillance: A Toolkit",
+	"url": "https://oaklandprivacy.org/fighting-local-surveillance-a-toolkit/",
+	"author": "Matt Cagle, ACLU of Northern California & Tracy Rosenberg, Oakland Privacy",
+	"date": "April 1, 2020",
+	"pullQuote": "Change is never easy to achieve, but this Toolkit describes the methods and strategies you can use to uncover local surveillance programs, organize and build political power around issues of surveillance, and effectively push for policy and legal reforms."
+}, {
+	"title": "@BootsRiley: Racist violence and police murder are inherent to capitalism.",
+	"url": "https://threadreaderapp.com/thread/1266851333438500865.html",
+	"author": "Boots Riley",
+	"date": "May 30, 2020",
+	"pullQuote": "The only way for cops to feel like they are doing the right thing- the only way for them to function in their job- is for them to subscribe to racist notions of violence, crime, and poverty- even if the cop themselves is Black or POC."
+}, {
+	"title": "Minnesota is now using contact tracing to track protestors, as demonstrations escalate",
+	"url": "https://bgr.com/2020/05/30/minnesota-protest-contact-tracing-used-to-track-demonstrators/",
+	"author": "Andy Meek",
+	"date": "May 30th, 2020",
+	"pullQuote": "Minnesota officials say they’re using contact tracing to better understand who the protestors are and where they’re coming from."
+}, {
+	"title": "\"Learn to Code\": The Meme Attacking Media",
+	"url": "https://www.theringer.com/tech/2019/1/29/18201695/learn-to-code-twitter-abuse-buzzfeed-journalists",
+	"author": "Molly McHugh",
+	"date": "Jan 29, 2019",
+	"pullQuote": "Laid-off journalists and their supporters have seen their Twitter mentions littered with a phrase that some are suggesting is part of a targeted anti-media harassment campaign. What does it all mean?"
+}, {
+	"title": "The Nooscope — a visual manifesto of the limits of AI",
+	"url": "https://www.skynettoday.com/editorials/nooscope",
+	"author": "Matteo Pasquinelli and Vladan Joler",
+	"date": "May 18, 2020",
+	"pullQuote": "Introducing the Nooscope, a diagram that shows how Machine Learning works and how it fails"
+}, {
+	"title": "Coronavirus: As Florida re-opens, COVID-19 data chief gets sidelined and researchers cry foul",
+	"url": "https://www.floridatoday.com/story/news/2020/05/18/censorship-covid-19-data-researcher-removed-florida-moves-re-open-state/5212398002/",
+	"author": "Alessandro Marazzi Sassoon",
+	"date": "May 18, 2020",
+	"pullQuote": "The Florida DOH employee who built the state’s COVID-19 dashboard was fired because she refused to censor data to drum up support for the state’s reopening."
+}, {
+	"title": "Through apps, not warrants, ‘Locate X’ allows federal law enforcement to track phones",
+	"url": "https://www.protocol.com/government-buying-location-data",
+	"author": "Charles Levinson",
+	"date": "March 5, 2020",
+	"pullQuote": "Federal agencies have big contracts with Virginia-based Babel Street. Depending on where you've traveled, your movements may be in the company's data."
+}, {
+	"title": "When Your Freedom Depends On an App",
+	"url": "https://gizmodo.com/when-your-freedom-depends-on-an-app-1843109198",
+	"author": "Molly Osberg and Dhruv Mehrotra",
+	"date": "4/27/20",
+	"pullQuote": "On the day Layla got out of prison and back to her home in Georgia, she was told she would need to purchase a smartphone—not an insignificant task for someone who’d just completed a sentence, but Layla was lucky to have a friend who could buy one for her. She says she was at home in bed a few days later when the app she had been mandated to install under the terms of her release went off unexpectedly, the high-pitched warning alarm blaring as it sent a notification to her parole officers telling him that she was not, in fact, at home."
+}, {
+	"title": "Pandora Didn't Pay Its Employees for Two Years, or How I do Research - The History of the Web",
+	"url": "https://thehistoryoftheweb.com/postscript/pandora-didnt-pay-its-employees-for-two-years-or-how-i-do-research/",
+	"author": "Jay Hoffmann",
+	"date": "May 19, 2020",
+	"pullQuote": "Pandora deferred the salaries of its employees for over two years in the early 2000’s after it ran out of funding."
+}, {
+	"title": "New Documentary Reveals Silicon Valley’s Role in Notorious Bronx Gang Raid",
+	"url": "https://theappeal.org/raided-part-2-documentary-bronx-gang-raid/",
+	"author": "Simon Davis-Cohen",
+	"date": "May 21, 2020",
+	"pullQuote": "On the pretext of conducting ‘transnational gang operations,’ ICE raids have swept up thousands of U.S. citizens."
+}, {
+	"title": "Thomson Reuters Refines Target Lists for ICE In-House, Documents Show",
+	"url": "https://notechforice.com/thomson-reuters-refines-target-lists-for-ice-in-house-documents-show/",
+	"author": "NoTechForICE",
+	"date": "May 21, 2020",
+	"pullQuote": "Thomson Reuters, the Canadian multinational media conglomerate that owns the news agency Reuters and other subsidiaries, is fine-tuning target lists of immigrants for deportation by the federal government, according to government contracts the company holds with Immigration and Customs Enforcement."
+}, {
+	"title": "Zuckerberg says employees moving out of Silicon Valley may face pay cuts",
+	"url": "https://www.cnbc.com/2020/05/21/zuckerberg-50percent-of-facebook-employees-could-be-working-remotely.html",
+	"author": "Salvador Rodriguez",
+	"date": "May 21 2020",
+	"pullQuote": "Zuckerberg's announcement comes as several tech companies are allowing employees to work remotely indefinitely."
+}, {
+	"title": "FEMA Tells States to Hand Public Health Data Over to Palantir",
+	"url": "https://www.thedailybeast.com/fema-tells-states-to-hand-public-health-data-over-to-palantir",
+	"author": "Spencer Ackerman",
+	"date": "May 21, 2020",
+	"pullQuote": "Aggregated COVID-19 information matters to public health, but it’s also a big economic opportunity. Now a Trump-aligned company gets that data daily from all 50 states."
+}, {
+	"title": "Alden’s allies elected to Tribune’s Board",
+	"url": "https://dfmworkers.org/aldens-allies-elected-to-tribunes-board/",
+	"author": "Julie Reynolds",
+	"date": "May 21, 2020",
+	"pullQuote": "Move cements Alden’s bid for a Trib merger or takeover come July By Julie Reynolds Two directors chosen by hedge fund Alden Global Capital were given permanent board seats at Tribune Publishing’s online annual shareholders’ meeting Thursday. Shareholders"
+}, {
+	"title": "Thomson Reuters faces pressure over ICE contracts",
+	"url": "https://www.theverge.com/2020/5/21/21266431/thomson-reuters-ice-clear-software",
+	"author": "Kim Lyons",
+	"date": "May 21, 2020",
+	"pullQuote": "A group of Thomson Reuters shareholders says the company’s technology databases are being used by Immigration and Customs Enforcement to “track and arrest immigrants on a massive scale,” potentially causing reputational damage to the company. "
+}, {
+	"title": "The Case For Sectoral Bargaining Is Now Stronger Than Ever",
+	"url": "http://inthesetimes.com/working/entry/22540/sectoral-bargaining-unions-workers-pandemic-joe-biden-labor-law",
+	"author": "Hamilton Nolan",
+	"date": "May 21, 2020",
+	"pullQuote": "We are living through the economic equivalent of emergency medicine. Right now, we are focused on leaders trying (often ineptly) to triage the immediate consequences of our economic crisis. Most of us are just thinking about staying employed. But there is deeper trouble on the horizon—the future of wages. We need to talk about how we’re going to prevent the paychecks of workers from getting crushed for years even after the pandemic is over."
+}, {
+	"title": "The leftwing deadbeat",
+	"url": "https://organizing.work/2020/05/the-leftwing-deadbeat/",
+	"author": "MK Lees and Marianne Garneau",
+	"date": "May 22, 2020",
+	"pullQuote": " In almost every campaign either of us have ever been involved in, and in dozens of stories from fellow organizers, the overwhelming trend is for otherwise proud leftists to show themselves as flakes at best, or actively undermining organizing at worst. "
+}, {
+	"title": "Audio: No Evil Foods, a Faux Leftist Vegan-Meat Company, Busts Union Drive",
+	"url": "https://www.vice.com/en_us/article/g5pbex/audio-no-evil-foods-a-faux-leftist-vegan-meat-company-busts-union-drive",
+	"author": "Lauren Kaori Gurley",
+	"date": "May 22 2020",
+	"pullQuote": "No Evil Foods brands itself with a socialist messaging and sells $8 packages of vegan products with leftist names like “Comrade Cluck” (a chicken substitute seasoned with garlic and onion), and “El Zapatista” (a mock chorizo), a reference to Mexico’s anti-capitalist indigenous movement. It sells its product at 5,500 stores nationwide, and, in online listings for jobs in its Weaverville production facility, the company says, “we do good no evil. We care about doing good through the products we make.”"
+}, {
+	"title": "Twitter thread about Glitch",
+	"url": "https://twitter.com/nancy_hawa/status/1263858543448424449",
+	"author": "@nancy_hawa",
+	"date": "May 22, 2020",
+	"pullQuote": "Shortly after Anil Dash started as the CEO of Fog Creek, he announced internally that we’d be making salaries transparent and had the website changed to claim we already had. Now, 3.5 years later @glitch  has laid off staff members without ever honoring the promise."
+}, {
+	"title": "Glitch lays off ‘substantial number of employees’ to cut costs",
+	"url": "https://www.theverge.com/2020/5/22/21268007/glitch-layoffs-substantial-number-coding-platform-union",
+	"author": " Jacob Kastrenakes",
+	"date": "May 22, 2020",
+	"pullQuote": "At least 18 people were laid off, according to two former employees who asked to remain anonymous. Glitch had about 50 employees before the layoffs, the sources said."
+}, {
+	"title": "Delayed Moves, Poolside Videos and Postmates Spon: The State of TikTok Collab Houses",
+	"url": "https://www.nytimes.com/2020/05/21/style/tiktok-collab-houses-quarantine-coronavirus.html",
+	"author": "Taylor Lorenz",
+	"date": "May 21, 2020",
+	"pullQuote": "Gen Z influencers are settling into life in a shuttered Los Angeles."
+}, {
+	"title": "Why are we trusting a company with ties to ICE and intelligence agencies to collect our health information?",
+	"url": "https://www.washingtonpost.com/opinions/2020/05/21/why-are-we-trusting-company-with-ties-ice-intelligence-agencies-collect-our-health-information",
+	"author": "Michael Kleinman and Charanya Krishnaswami",
+	"date": "May 21, 2020",
+	"pullQuote": "Now the U.S government is creating a sweeping, comprehensive coronavirus data platform that will track millions of Americans’ information. Last month, the Department of Health and Human Services (HHS) awarded the contract for this platform to Palantir Technologies, a secretive data-mining firm known for its work with the Pentagon, intelligence agencies and law enforcement during the so-called global war on terrorism."
+}, {
+	"title": "Under Cover of Mass Death, Andrew Cuomo Calls in the Billionaires to Build a High-Tech Dystopia",
+	"url": "https://theintercept.com/2020/05/08/andrew-cuomo-eric-schmidt-coronavirus-tech-shock-doctrine/",
+	"author": "Naomi Klein",
+	"date": "May 8 2020",
+	"pullQuote": "Big tech’s emerging pandemic shock doctrine demands heavy public subsidies for a no-touch, socially distanced coronavirus future"
+}, {
+	"title": "California Activists Ramp Up Fight Against Facial-Recognition Technology",
+	"url": "https://www.wsj.com/articles/california-activists-ramp-up-fight-against-facial-recognition-technology-11590485400",
+	"author": "David Uberti",
+	"date": "May 26, 2020",
+	"pullQuote": "A Microsoft-backed bill to regulate the technology mirrors law in Washington state"
+}, {
+	"title": "Tech Worker Organizing in China: A New Model for Workers Battling a Repressive State",
+	"url": "https://journals.sagepub.com/doi/pdf/10.1177/1095796020916201",
+	"author": "Kevin Lin",
+	"date": "May 15, 2020",
+	"pullQuote": "As the worker center organizing model, which is adapted to organizing industrial workers, becomes increasingly unsustainable due to state repression, the tech worker organizing pro-vides clues to a new model for worker mobilization that may hold particular advantages under the current political environment in China."
+}, {
+	"title": "ACLU of Washington Releases Toolkit to Help People Identify Government Surveillance and Decision-Making Technologies",
+	"url": "https://www.aclu-wa.org/news/aclu-washington-releases-toolkit-help-people-identify-government-surveillance-and-decision",
+	"author": "ACLU Washington",
+	"date": "May 26, 2020",
+	"pullQuote": "ACLU and the Critical Platform Studies Group (?!) released a toolkit \"to help individuals better identify government surveillance and automated decision-making technologies. These systems automate, aid, or replace human decision-making in a number of important contexts, including accepting or rejecting employment, housing and public benefits applications, setting or rejecting bail, and analyzing insurance claims. The Toolkit also helps individuals to make sense of how these technologies work so that they can pose informed questions about impacts, effectiveness, and oversight.\""
+}, {
+	"title": "The House Is Voting on Section 215, Again. The Bill Still Needs More Reform",
+	"url": "https://www.eff.org/deeplinks/2020/05/house-voting-section-215-again-bill-still-needs-more-reform",
+	"author": "India McKinney and Mark Rumold",
+	"date": "May 26, 2020",
+	"pullQuote": "Later this week, the House of Representatives is once again voting on whether or not to extend the authorities in Section 215 of the PATRIOT Act—a surveillance law with a rich history of government overreach and abuse, along with two other PATRIOT Act provisions, and possibly, an amendment"
+}, {
+	"title": "Palantir's CEO said he's suffered because of his contract with ICE",
+	"url": "https://www.axios.com/palantir-ceo-ice-immigration-78117ba6-9c81-4d87-84ac-a0d620c25918.html",
+	"author": "Mike Allen",
+	"date": "May 26, 2020",
+	"pullQuote": "\"Did I suffer? ... I've had some of my favorite employees leave.\""
+}, {
+	"title": "Palantir CEO hits Silicon Valley \"monoculture,\" may leave California",
+	"url": "https://www.axios.com/palantir-alex-karp-headquarters-california-1dd44454-89c5-4773-a01d-c0f183654c08.html",
+	"author": "Mike Allen",
+	"date": "May 26, 2020",
+	"pullQuote": "Karp blamed the \"increasing intolerance\" of Silicon Valley."
+}, {
+	"title": "Palantir CEO says company is likely going public within the year",
+	"url": "https://www.axios.com/palantir-ipo-2020-5557c150-3753-4fd2-b656-9690e508883f.html",
+	"author": "Mike Allen",
+	"date": "May 26, 2020",
+	"pullQuote": "\"The problem with being a public company is that it can be culturally corrosive on the inside.\""
+}, {
+	"title": "How Kickstarter Employees Formed a Union",
+	"url": "https://www.wired.com/story/how-kickstarter-employees-formed-union/",
+	"author": "Bryce Covert",
+	"date": "05.27.2020",
+	"pullQuote": "The point wasn’t so much about pay issues, but to give workers more say over what they produce—reflecting a trend of internal protest across the tech industry."
+}, {
+	"title": "Tech billionaires are plotting sweeping, secret plans to boost Joe Biden",
+	"url": "https://www.vox.com/recode/2020/5/27/21271157/tech-billionaires-joe-biden-reid-hoffman-laurene-powell-jobs-dustin-moskovitz-eric-schmidt",
+	"author": "Theodore Schleifer",
+	"date": "May 27, 2020",
+	"pullQuote": "Inside the experiments, data wars, and partisan news sites that Silicon Valley thinks can help Biden catch up to Trump."
+}, {
 	"title": "Finland: How to unionize when your boss is an algorithm and you’re self-employed",
 	"url": "https://algorithmwatch.org/en/story/justice4couriers/",
 	"author": "Aleksi Knuutila",
